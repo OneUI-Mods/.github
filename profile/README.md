@@ -6,6 +6,8 @@ Samsung Galaxy / One UIを使いやすくする、非公式のアプリ・モジ
 
 | アプリ | 内容 |
 | --- | --- |
+| [OneUI Mods Manager](https://github.com/OneUI-Mods/OneUIModsManager) | アプリ一覧・GitHub Releaseの更新確認・実験版チャンネルの切り替え |
+| [Dark App Tools](https://github.com/OneUI-Mods/DarkAppTools) | セサミ・povoのダークモード。旧Sesame UI Toolsから設定を引き継いで更新 |
 | [Galaxy Adaptive Bar](https://github.com/OneUI-Mods/galaxy-adaptive-statusbar) | 背景に応じたステータスバーの配色とアニメーション |
 | [Galaxy Capture Tools](https://github.com/OneUI-Mods/GalaxyCaptureTools) | 画面録画・スクリーンショットの機能拡張 |
 | [One UI Home Tweaks](https://github.com/OneUI-Mods/OneUIHomeTweaks) | ホーム・アプリ履歴・クイックパネルのカスタマイズ |
