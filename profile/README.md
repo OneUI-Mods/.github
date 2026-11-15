@@ -1,5 +1,7 @@
 # OneUI Mods
 
+[日本語](https://github.com/OneUI-Mods/.github/blob/main/profile/README.md) · [English](https://github.com/OneUI-Mods/.github/blob/main/profile/README.en.md)
+
 Samsung Galaxy / One UI向けの、非公式のカスタマイズアプリ・モジュールを公開しています。ホーム、ステータスバー、カメラ、録画、接続、診断など、目的に合わせて必要なアプリを選べます。
 
 [アプリをまとめて管理](https://github.com/OneUI-Mods/OneUIModsManager/releases/latest) · [F-Droidで入手](https://oneui-mods.github.io/fdroid/) · [全リポジトリ](https://github.com/orgs/OneUI-Mods/repositories)
