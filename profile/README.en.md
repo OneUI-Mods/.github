@@ -55,6 +55,7 @@ To install an app individually, check its README for requirements and setup inst
 | --- | --- |
 | [App Battery Tools](https://github.com/OneUI-Mods/app-battery-tools) | Reduce unnecessary battery use in supported apps |
 | [Legacy Game Tools](https://github.com/OneUI-Mods/legacy-game-tools) | Improve startup compatibility for supported old game trials |
+| [Rain Compatibility Tools](https://github.com/OneUI-Mods/rain-compatibility-tools) | Diagnose Rain startup failures and retry missing activity resources |
 
 ## Distribution and requirements
 
