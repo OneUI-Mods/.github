@@ -43,6 +43,7 @@ Samsung Galaxy / One UI向けの、非公式のカスタマイズアプリ・モ
 | アプリ | できること |
 | --- | --- |
 | [Galaxy Charge Monitor](https://github.com/OneUI-Mods/GalaxyChargeMonitor) | 充電状態・温度制限・充電設定を読み取り専用で監視 |
+| [Galaxy Game Monitor](https://github.com/OneUI-Mods/GalaxyGameMonitor) | ゲームブースターでCPU・GPU負荷を最大クロック基準の表示に切り替え |
 | [Galaxy DIAG](https://github.com/OneUI-Mods/galaxy-diag) | モデムの測定・診断用接続を準備 |
 | [Galaxy Service Panel](https://github.com/OneUI-Mods/galaxy-service-panel) | Samsung Service Modeの表示を整理 |
 | [Galaxy Update Guard](https://github.com/OneUI-Mods/galaxy-update-guard) | GalaxyのOSアップデートを停止・復元 |

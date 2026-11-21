@@ -43,6 +43,7 @@ To install an app individually, check its README for requirements and setup inst
 | App | What it does |
 | --- | --- |
 | [Galaxy Charge Monitor](https://github.com/OneUI-Mods/GalaxyChargeMonitor) | Read-only monitoring of charging state, thermal limits, and charging settings |
+| [Galaxy Game Monitor](https://github.com/OneUI-Mods/GalaxyGameMonitor) | Switch Game Booster’s CPU and GPU readings to peak-clock-relative load |
 | [Galaxy DIAG](https://github.com/OneUI-Mods/galaxy-diag) | Prepare modem measurement and diagnostic connectivity |
 | [Galaxy Service Panel](https://github.com/OneUI-Mods/galaxy-service-panel) | Organize Samsung Service Mode information |
 | [Galaxy Update Guard](https://github.com/OneUI-Mods/galaxy-update-guard) | Disable and restore Galaxy OS updates |
