@@ -6,6 +6,8 @@ Samsung Galaxy / One UI向けの、非公式のカスタマイズアプリ・モ
 
 [アプリをまとめて管理](https://github.com/OneUI-Mods/OneUIModsManager/releases/latest) · [F-Droidで入手](https://oneui-mods.github.io/fdroid/) · [全リポジトリ](https://github.com/orgs/OneUI-Mods/repositories)
 
+[開発用のホット更新と対応状況](../development/hot-reload/README.md)
+
 ## はじめに
 
 [OneUI Mods Manager](https://github.com/OneUI-Mods/OneUIModsManager)から、アプリ一覧、インストール状況、各リポジトリのGitHub Releaseを確認できます。安定版・実験版の切り替え、更新内容の確認、APKのダウンロードと更新に対応しています。管理アプリ自体にroot・Vectorは不要です。

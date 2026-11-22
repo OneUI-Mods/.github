@@ -6,6 +6,8 @@ Unofficial customization apps and modules for Samsung Galaxy / One UI. Choose th
 
 [Manage the apps](https://github.com/OneUI-Mods/OneUIModsManager/releases/latest) · [Get them through F-Droid](https://oneui-mods.github.io/fdroid/) · [All repositories](https://github.com/orgs/OneUI-Mods/repositories)
 
+[Developer hot updates and coverage](../development/hot-reload/README.en.md)
+
 ## Getting started
 
 [OneUI Mods Manager](https://github.com/OneUI-Mods/OneUIModsManager) shows the app catalog, installation status, and each repository's GitHub Releases. It supports stable and prerelease channels, release notes, APK downloads, and updates. The manager itself does not require root or Vector.
