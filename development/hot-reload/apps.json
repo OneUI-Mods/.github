@@ -20,6 +20,7 @@
   "GalaxyGameMonitor": {"mode": "api102", "hosts": ["com.samsung.android.game.gametools"], "minimum": 4, "marker": "ONEUI_MODS_HOT_RELOAD"},
   "GalaxyChargeMonitor": {"mode": "app"},
   "galaxy-diag": {"mode": "app"},
+  "accessibility-keeper": {"mode": "api102", "hosts": ["system_server"], "minimum": 2, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "system_server force-stop hooks; waiting services carry over"},
   "app-battery-tools": {"mode": "api102", "hosts": [], "minimum": 15, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "specify the target process; active scans and resource ownership defer updates"},
   "rain-compatibility-tools": {"mode": "signed-code", "hosts": ["dev.raincord.app"], "minimum": 4, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "complete resource recovery with the stock retry limited to once; embedded LSPatch 93 adapter stays loaded"},
   "simeji-clean": {"mode": "api102", "hosts": [], "minimum": 3, "hostBase": "com.adamrocker.android.input.simeji", "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "specify the active Simeji input-method process"}
