@@ -67,7 +67,7 @@ Samsung Galaxy / One UI向けの、非公式のカスタマイズアプリ・モ
 - **OneUI Mods Manager**：[公開カタログ](https://github.com/OneUI-Mods/OneUIModsManager/blob/main/catalog/apps.json)から一覧を取得し、各リポジトリのリリースを直接確認します。
 - **専用F-Droidリポジトリ**：[追加方法と掲載状況](https://oneui-mods.github.io/fdroid/)を確認できます。公式F-Droidへの掲載とは別の配布元です。
 
-対応する端末・Android / One UIのバージョン、root・Vector・Shizukuなどの条件はアプリごとに異なります。実験的な機能や未検証の環境は、各READMEとリリース説明で案内しています。
+新しいAPKのインストールには原則としてAndroid 17（API 37）以降が必要です。Galaxy Shutter Mute本体・専用Manager、Galaxy Service Panel、SleepStoreは従来の対応範囲です。対応端末やroot・Vector・Shizukuなどの導入条件は、各アプリのREADMEを確認してください。
 
 ## 不具合報告・開発
 
