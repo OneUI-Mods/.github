@@ -67,7 +67,7 @@ To install an app individually, check its README for requirements and setup inst
 - **OneUI Mods Manager:** fetches the [public catalog](https://github.com/OneUI-Mods/OneUIModsManager/blob/main/catalog/apps.json) and checks each repository's releases directly.
 - **Dedicated F-Droid repository:** see [setup instructions and available apps](https://oneui-mods.github.io/fdroid/). This distribution source is separate from inclusion in official F-Droid.
 
-New APKs generally require Android 17 (API 37) or later. Galaxy Shutter Mute and its dedicated Manager, Galaxy Service Panel, and SleepStore retain their previous requirements. Check each app's README for supported devices and setup requirements such as root, Vector, or Shizuku.
+New APKs generally require Android 17 (API 37) or later. OneUI Mods Manager, Galaxy Shutter Mute and its dedicated Manager, Galaxy Service Panel, and SleepStore retain their previous requirements. Check each app's README for supported devices and setup requirements such as root, Vector, or Shizuku.
 
 ## Issues and development
 
