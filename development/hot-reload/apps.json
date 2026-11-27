@@ -19,6 +19,7 @@
   "legacy-game-tools": {"mode": "api102", "hosts": ["com.bushiroad.d4djddedition", "com.sega.pjsekai.re"], "minimum": 15, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "Kotlin hook updates only when the loaded native library is byte-for-byte unchanged"},
   "GalaxyGameMonitor": {"mode": "api102", "hosts": ["com.samsung.android.game.gametools", "com.samsung.android.game.gos"], "minimum": 4, "hostMinimum": {"com.samsung.android.game.gos": 22}, "marker": "ONEUI_MODS_HOT_RELOAD"},
   "package-installer-compat": {"mode": "api102", "hosts": ["system_server"], "minimum": 6, "marker": "ONEUI_MODS_HOT_RELOAD"},
+  "DexPilot": {"mode": "api102", "hosts": ["system_server"], "minimum": 5, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "install dexopt hooks; defers reload while installations or deferred compilation are active"},
   "GalaxyChargeMonitor": {"mode": "app"},
   "galaxy-diag": {"mode": "app"},
   "accessibility-keeper": {"mode": "api102", "hosts": ["system_server"], "minimum": 2, "marker": "ONEUI_MODS_HOT_RELOAD", "owner": "system_server force-stop hooks; waiting services carry over"},

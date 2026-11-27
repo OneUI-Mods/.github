@@ -58,6 +58,7 @@ Samsung Galaxy / One UI向けの、非公式のカスタマイズアプリ・モ
 | --- | --- |
 | [Accessibility Keeper](https://github.com/OneUI-Mods/accessibility-keeper) | 強制終了してもユーザー補助の許可を保つ |
 | [App Battery Tools](https://github.com/OneUI-Mods/app-battery-tools) | 対応アプリごとに不要な電池消費を抑制 |
+| [DexPilot](https://github.com/OneUI-Mods/DexPilot) | アプリのインストール時のDEX最適化、コンパイル状態、CPU上限を管理 |
 | [Legacy Game Tools](https://github.com/OneUI-Mods/legacy-game-tools) | 対応する古い体験版ゲームの起動互換性を改善 |
 | [Rain Compatibility Tools](https://github.com/OneUI-Mods/rain-compatibility-tools) | Rainの起動失敗の診断とリソース生成の限定的な補修 |
 
